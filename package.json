@@ -11,6 +11,7 @@
     "start": "node dist/http.js"
   },
   "dependencies": {
+    "lorem-ipsum": "^3.0.0",
     "xmcp": "^0.5.0",
     "zod": "3.24.4"
   }
